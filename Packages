@@ -1,0 +1,43 @@
+Package: com.bunnyinject.ppsspp
+Version: 1.10
+Architecture: iphoneos-arm
+Maintainer: BunnyInject
+Filename: /debs/org.ppsspp.ppsspp-dev-latest_v1.10_iphoneos-arm.deb
+Size: 14690308
+MD5sum: A89E709FE218702738B8C3B344CC9439
+SHA1: DACD7979CAF340862F3B7A3450F57AF42C7831D4
+SHA256: 62B2BC8D9E2B4A66D9528800C57BF8B5591C1EF9F13621C23518A90460F52644
+Section: BunnyInject Apps
+Description: PPSSPP 1.10
+Name: PPSSPP
+
+Author: BunnnyInject
+Name: INDS
+Package: com.bunnyinject.inds
+Version: 1.10
+Architecture: iphoneos-arm
+Maintainer: BunnyInject
+Filename: /debs/net.nerd.iNDS_1.10.7_iphoneos-arm
+Size: 8410136
+MD5sum: B205ABD66963D617681DC8B3BB00E072
+SHA1: B205ABD66963D617681DC8B3BB00E072
+SHA256: 824A9AA1AE30ABAF05432AAD2D290BD8C2C6E01E36C6F26353FFD0987CF9E46E
+Section: BunnyInject Apps
+Description: INDS
+Name: INDS
+
+Author: BunnnyInject
+Name: ColorMyCC
+Package: com.bunnyinject.ppsspp
+Version: 1.10
+Architecture: iphoneos-arm
+Maintainer: BunnyInject
+Filename: /debs/org.ppsspp.ppsspp-dev-latest_v1.10_iphoneos-arm.deb
+Size: 14690308
+MD5sum: 8DE0F9C1DA7F24B7AF76E3ACD17F0653
+SHA1: 6D4F5E82EBBABB52CB3C793565F26275F0CECE69
+SHA256: FF08B820C19C2CCB6E41C27E7CFB041F0F21E73D321474458CFB23051E02B760
+Section: Tweaks
+Description: ColorMyCC
+Author: BunnnyInject
+Name: ColorMyCC
